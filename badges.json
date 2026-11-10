@@ -710,7 +710,7 @@
    "groupId": "channels",
    "name": "1.0 Mono",
    "pattern": "(?i)^(?=.*(?:(?:^|[^0-9.v])1[. ]0(?![0-9])(?!\\s*(?:gb|mb|gib|mib|tb|kb)\\b)|\\bmono\\b))(?!.*(?:^|[^0-9.v])[25678][. ][01](?![0-9])(?!\\s*(?:gb|mb|gib|mib|tb|kb)\\b))",
-   "imageURL": "https://raw.githubusercontent.com/suyashratnaparkhi/NuvioBadges/main/src/audiochannels_2_0_audio.png",
+   "imageURL": "https://raw.githubusercontent.com/suyashratnaparkhi/NuvioBadges/main/src/audiochannels_1_0_audio.png",
    "tagColor": "#00000000",
    "borderColor": "#00000000",
    "textColor": "#00000000",
